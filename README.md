@@ -21,7 +21,7 @@
     - Perform exploratory data analysis (EDA) to find patterns, correlations, and trends.
 6. **Machine learning models:**
    - **Logistic Regression:** This model is effective in prediction of chances with two possibilities, such as determining the likelihood for it to rain.
-   - ** Neural Network:** A multi-layer perceptron classifier (MLP) implemented that detects underlying nonlinear complex patterns in the data.
+   - **Neural Network:** A multi-layer perceptron classifier (MLP) implemented that detects underlying nonlinear complex patterns in the data.
    - **Decision Tree Regression:** For regression tasks, decision tree model splits data into branches depending on target variable so as to improve accuracy of predictions.
    - **Support Vector Machine (SVM):** The data was fitted by an SVM model for categorization and prediction in order to determine the best separating hyperplane or boundary.
      
